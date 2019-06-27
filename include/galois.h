@@ -24,6 +24,8 @@ University of Tennessee
 Knoxville, TN 37996
 plank@cs.utk.edu
 
+Work to adapt this codebase to work with GCC 9.1/Clang 8.0 using the C++17
+standard with CMake has been done by Afnan Enayet.
  */
 
 unsigned galois_single_multiply(unsigned a, unsigned b, unsigned w);
